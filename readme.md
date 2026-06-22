@@ -6,8 +6,8 @@ I enjoy designing systems that are clear, organized, and easy to maintain.
 ## **STATS**
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=noaloprg&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noaloprg&layout=compact&theme=tokyonight" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=noaloprg&show_icons=true&theme=tokyonight" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noaloprg&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
 ## **TECH STACK**
@@ -15,36 +15,52 @@ I enjoy designing systems that are clear, organized, and easy to maintain.
 ### **Databases**
 
 <p align="left">
-<img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/pgAdmin-%23336791.svg?style=for-the-badge&logo=pgadmin4&logoColor=white" height="32" />
+<!-- PostgreSQL -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
 </p>
+<br>
 
 ### **Backend & Core Languages**
 
 <p align="left">
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" height="32" />
+<!-- Java -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+<!-- C# -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50"/>
+<!-- Python -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50"/>
+<!-- Kotlin -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="50"/>
+<!-- Dart -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" />
 </p>
+<br>
 
 ### **Mobile & Frameworks**
 
 <p align="left">
-<img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" height="32" />
+<!-- .NET MAUI-->
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" height="50"/>
+<!-- Flutter -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50"/>
 </p>
+<br>
 
 ### **Development Tools**
 
 <p align="left">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="32" />
-<img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white" height="32" />
+<!-- Eclipse -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="50"/>
+<!-- IntelliJ -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50"/>
+<!-- Visual Studio  -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Visual_Studio_Icon_2026.svg/960px-Visual_Studio_Icon_2026.svg.png" height="50"/>
+<!-- VS Code -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50"/>
+<!-- Android Studio -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50"/>
 </p>
+<br>
 
 ## **SOCIAL MEDIA**
 
