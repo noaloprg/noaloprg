@@ -60,7 +60,6 @@ I enjoy designing systems that are clear, organized, and easy to maintain.
 <!-- Android Studio -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="50"/>
 </p>
-<br>
 
 ## **SOCIAL MEDIA**
 
